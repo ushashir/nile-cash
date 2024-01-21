@@ -1,3 +1,17 @@
+# NILE CASH USER INTERFACE
+- 
+
+### Team Members
+- Kadoon 
+- Precious
+- Ushahemba
+- Adama
+- Shadrack
+
+### Useful Links
+- [UI Design](https://www.figma.com/file/7fVTUlFK19gDSrN0oQkVsv/MVP-2?type=design&node-id=3-1004&mode=design&t=esqqAhW5HoB1Ca5G-0)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
