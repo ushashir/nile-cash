@@ -12,6 +12,18 @@
 - [UI Design](https://www.figma.com/file/7fVTUlFK19gDSrN0oQkVsv/MVP-2?type=design&node-id=3-1004&mode=design&t=esqqAhW5HoB1Ca5G-0)
 
 
+## How to contribute to this repo
+
+- Run `git clone https://github.com/ushashir/nile-cash` to clone repository to your local machine
+- Run `yarn install` to install dependencies
+- Run `git checkout -b <branch name>` to create a new branch
+- Run `yarn start` to start start development server on your local machine
+- Write your code and test it to ensure it's working properly
+- Run `git add .` to stage your code
+- Run `git commit -m 'commit message'` to commit
+- Run `git push origin <name of your branch>` to push
+- Visit [Here](https://github.com/ushashir/nile-cash) to create and make a pull request.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
